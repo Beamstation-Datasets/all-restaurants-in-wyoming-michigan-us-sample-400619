@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Detailed restaurant dataset for Wyoming, Michigan. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Wyoming, Michigan, US",
+  "export_job_id": "2f61d212-3f43-41bb-900c-a544d57e39cf",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 400619,
+  "location_name": "Wyoming",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-wyoming-michigan-us-sample-400619",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/400619/beamstation_400619_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 9.83,
+  "sample_records": 23,
+  "sample_sha256": "ffd317d8c17fb7cc25376d4a4d403e98f83e9f1ed245e49b1a611946195400bc",
+  "sample_size_bytes": 95232,
+  "total_records": 234,
+  "updated_at": "2026-04-09T13:03:19.005210+00:00"
+}
