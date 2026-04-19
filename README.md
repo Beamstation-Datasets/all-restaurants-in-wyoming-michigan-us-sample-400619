@@ -9,9 +9,9 @@
 | Dataset ID | `400619` |
 | Location | Wyoming |
 | Category | Restaurants |
-| Full dataset size | 234 records |
-| Free sample size | 23 records (9.83%) |
-| Last export | 2026-04-09T13:03:19.005210+00:00 |
+| Full dataset size | 231 records |
+| Free sample size | 23 records (9.96%) |
+| Last export | 2026-04-16T13:06:01.391796+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-wyoming-michigan-us-sample-400619/releases/download/sample-latest/beamstation_400619_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
