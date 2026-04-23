@@ -1,12 +1,12 @@
 {
-  "export_job_id": "24ee590e-9cdc-413c-8e3c-35c1a1a2ab67",
+  "export_job_id": "ac400e43-61fd-47c3-b5a2-ed0aa6b15d1a",
   "id_short": 400619,
-  "published_at": "2026-04-19T08:01:08Z",
+  "published_at": "2026-04-23T19:04:25Z",
   "repo_name": "all-restaurants-in-wyoming-michigan-us-sample-400619",
   "sample_asset_name": "beamstation_400619_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/400619/beamstation_400619_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 23,
-  "sample_sha256": "00f513f2cfb86c66f6482aa23a6ecf4d342b3fade93cbefbfb6f555d77bd39b4",
-  "sample_size_bytes": 93472,
-  "total_records": 231
+  "sample_records": 22,
+  "sample_sha256": "084f42e360240da35f4aa4d5cd2339c635c847a14d1eebd0d84aafbaaa78b3ac",
+  "sample_size_bytes": 90248,
+  "total_records": 220
 }
